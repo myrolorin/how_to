@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="How To Use Docker To Test Script Output"
+                 start-page="How-To-Use-A-Docker-Container-To-Test-Script-Output.md">
+
+    <toc-element topic="How-To-Use-A-Docker-Container-To-Test-Script-Output.md">
+    </toc-element>
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Spinning-Up-a-Docker-Container.md"/>
+    <toc-element topic="Running-A-Script.md"/>
+</instance-profile>
